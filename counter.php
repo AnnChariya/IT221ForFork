@@ -10,6 +10,7 @@
     }
     $pgcount = $pgcount + 1;
     $pgcount = "00000" . $pgcount;
+    $pgcount = "00001" . $pgcount;
     $pgcount = substr($pgcount, -6);
     echo "$pgcount";
 
