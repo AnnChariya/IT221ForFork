@@ -18,6 +18,7 @@
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ</li>
 				<li><a href="contact.php">สอบถาม</li>
+				<li><a href="contactdtel.php">สอบถามเรื่องอะไร</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
