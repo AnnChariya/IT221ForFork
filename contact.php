@@ -19,6 +19,7 @@
 				<li><a href="contact.php">ติดต่อ</li>
 				<li><a href="detali.php">รายละเอียด</li>
 				<li><a href="price.php">ราคา</li>
+				<li><a href="Free.php">ฟรี</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
