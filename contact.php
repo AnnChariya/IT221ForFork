@@ -3,7 +3,7 @@
         <tr>
             <td width="23" rowspan="2">&nbsp;</td>
             <td height="119" colspan="2" bgcolor="#006600">
-                <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์</font></center></h1>
+                <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</font></center></h1>
                 <?php include "Date.php"; ?>
             </td>
             <td width="43" rowspan="2">&nbsp;</td>
@@ -12,7 +12,7 @@
             <td width="1007" bgcolor="#FFFFFF">
                 <img src="images/map.gif">
             </td>
-            <td width="190" bgcolor="#FFFF66"><ul>
+            <td width="190" bgcolor="#htrhtrhwrthsrthrthrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrFFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
